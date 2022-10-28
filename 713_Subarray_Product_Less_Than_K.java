@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
         int si=0;
